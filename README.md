@@ -1,4 +1,8 @@
 ![alt text](https://i.imgur.com/D340N9N.png)
+
+###google slide
+https://docs.google.com/presentation/d/1uVGyTS3MsV5m4oaGuQhpEKr2i2gA2wuyhCDOArnVjOM/edit?usp=sharing
+
 ### credit
 Brad Traversy
 https://www.youtube.com/watch?v=v0t42xBIYIs
