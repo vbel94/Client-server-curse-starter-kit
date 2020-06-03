@@ -1,18 +1,19 @@
 ![alt text](https://i.imgur.com/D340N9N.png)
 
-###google slide
+
+# google slide
 https://docs.google.com/presentation/d/1uVGyTS3MsV5m4oaGuQhpEKr2i2gA2wuyhCDOArnVjOM/edit?usp=sharing
 
-# credit
+##  credit
 Brad Traversy
 https://www.youtube.com/watch?v=v0t42xBIYIs
 https://github.com/bradtraversy/react_express_starter
-## React Express Starter Pack 
+###  React Express Starter Pack 
 > Make for curse client server side
 > Create full stack apps with React and Express. Run your client and server with a single command . 
 > post and get
 > props and state
-### Quick Start
+####  Quick Start
 
 ``` bash
 # Install dependencies for server
@@ -32,7 +33,7 @@ npm run client
 
 # Server runs on http://localhost:5000 and client on http://localhost:3000
 ```
-#### arthor
+#####  arthor
 vladi beluosv
-#### License
+#####  License
 This project is licensed under the MIT License
