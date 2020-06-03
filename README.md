@@ -1,5 +1,4 @@
-<blockquote class="imgur-embed-pub" lang="en" data-id="BtR5KvU"><a href="//imgur.com/BtR5KvU">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-![alt text](https://imgur.com/BtR5KvU)
+![alt text](https://i.imgur.com/BtR5KvU.png)
 ### credit
 Brad Traversy
 https://www.youtube.com/watch?v=v0t42xBIYIs
